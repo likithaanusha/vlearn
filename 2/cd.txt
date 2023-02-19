@@ -1,0 +1,11 @@
+CI/CD  PIPELINE:
+A continuous integration and continuous deployment (CI/CD) pipeline is a series of steps that must be performed in order to deliver a new version of software. CI/CD pipelines are a practice focused on improving software delivery throughout the software development life cycle via automation.
+
+Typically building a CI/CD pipeline consists of the following phases/stages. 
+Code: Checked into the repository. 
+Build: Build is triggered and deployed in a test environment. 
+Test: Automated tests are executed.
+Deploy: Code is deployed to stage, and production environment
+
+ROLE OF JENKINS:
+Jenkins is one of the most widely used open-source CI/CD DevOps tools. It enables developers to implement CI/CD pipelines within the development environment in a comprehensive manner. Jenkins is written in Java and supports various version control tools
